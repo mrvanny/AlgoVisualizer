@@ -18,7 +18,6 @@ import mysql.connector
 
 customtkinter.set_appearance_mode("dark")  # Modes: system (default), light, dark
 customtkinter.set_default_color_theme("green")  # Themes: blue (default), dark-blue, green
-# customtkinter.set
 
 flag=False
 fflag=False
@@ -26,7 +25,7 @@ rvala=False
 ynflag=False
 w=0
 
-dbflg=False
+dbflg=False #database flag
 
 # dbflg=True
 
